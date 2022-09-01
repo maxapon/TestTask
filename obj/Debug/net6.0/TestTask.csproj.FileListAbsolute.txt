@@ -1,0 +1,15 @@
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\bin\Debug\net6.0\TestTask.exe
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\bin\Debug\net6.0\TestTask.deps.json
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\bin\Debug\net6.0\TestTask.runtimeconfig.json
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\bin\Debug\net6.0\TestTask.dll
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\bin\Debug\net6.0\ref\TestTask.dll
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\bin\Debug\net6.0\TestTask.pdb
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\obj\Debug\net6.0\TestTask.csproj.AssemblyReference.cache
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\obj\Debug\net6.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\obj\Debug\net6.0\TestTask.AssemblyInfoInputs.cache
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\obj\Debug\net6.0\TestTask.AssemblyInfo.cs
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\obj\Debug\net6.0\TestTask.csproj.CoreCompileInputs.cache
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\obj\Debug\net6.0\TestTask.dll
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\obj\Debug\net6.0\ref\TestTask.dll
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\obj\Debug\net6.0\TestTask.pdb
+B:\Projects\Programming\C#\Lessons\TestTask\TestTask\obj\Debug\net6.0\TestTask.genruntimeconfig.cache
